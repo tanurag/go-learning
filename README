@@ -1,0 +1,8 @@
+This repo contains go-lang code for different algorithm and data structures.
+
+Directory Structure:
+===================
+    algo - contains multiple algorithms.
+    test - contains driver code to test those algorithm
+
+
